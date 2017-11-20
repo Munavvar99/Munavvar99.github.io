@@ -1,0 +1,20 @@
+body{
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+	}
+h1, h2{
+	text-align: center;
+	color: #086b0f;
+	font-family: Calibri;
+}
+img{
+	padding-left: 30px;
+}
+p,ul,li{
+	padding: 5px;
+	padding-left: 20px;
+	color: #031c99;
+}
